@@ -8,8 +8,7 @@ This project is intended to practice and enhance my backend development skills, 
 
 ## Getting Started
 
-You need crate your "Discord-bot", click the link
-https://discord.com/developers/applications
+You need crate your "Discord-bot", click the link https://discord.com/developers/applications
 
 Get your Discord-bot token and keep it private.
 and set environment "DISCORD_API_KEY"
@@ -17,8 +16,8 @@ and set environment "DISCORD_API_KEY"
 DISCORD_API_KEY = "your bot token"
 ```
 
-You also need crate your "gemini api key", click the link
-https://aistudio.google.com/app/apikey
+You also need crate your "gemini api key", click the link https://aistudio.google.com/app/apikey
+
 Get Google gemini api key and keep it private.
 and set environment "GOOGLE_API_KEY"
 ```
