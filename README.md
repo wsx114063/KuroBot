@@ -30,5 +30,7 @@ Using the ASR feature requires at least 6 GB of VRAM.
 
 ### Environment
 This project is developed on a old hardware, but these information may still be helpful for you :
+
 | CPU | GPU | VRAM | Python | PyTorch |
+|  ----  | ----  | ----  | ----  | ----  |
 | 3500X | RTX 2060 | 6GB | 3.9.6 | 2.0.1+cu118|
