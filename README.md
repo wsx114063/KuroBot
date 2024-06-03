@@ -6,6 +6,9 @@ A discord bot that can ASR and summarize result.
 
 This project is intended to practice and enhance my backend development skills, such as Python, API integration, File Process .  
 
+## Demo
+  [Here](https://www.youtube.com/watch?v=v0_sXrAcx0M)
+
 ## Getting Started
 
 You need crate your "Discord-bot", click the link https://discord.com/developers/applications
@@ -33,3 +36,4 @@ This project is developed on a old hardware, but these information may still be 
 | CPU | GPU | VRAM | Python | PyTorch |
 |  ----  | ----  | ----  | ----  | ----  |
 | 3500X | RTX 2060 | 6GB | 3.9.6 | 2.0.1+cu118|
+
